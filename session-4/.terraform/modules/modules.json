@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"networking_resources","Source":"./network_module","Dir":"network_module"},{"Key":"nginx","Source":"./nginx_module","Dir":"nginx_module"},{"Key":"session_2","Source":"../session-2","Dir":"../session-2"},{"Key":"sa_resources","Source":"./sa_module","Dir":"sa_module"}]}
