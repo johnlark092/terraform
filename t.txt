@@ -1,0 +1,3 @@
+NAME                IS_ACTIVE  ACCOUNT                                                              PROJECT                   COMPUTE_DEFAULT_ZONE  COMPUTE_DEFAULT_REGION
+default             False      dni-tf-trainee-sa2@us-gcp-ame-con-dic-sbx-1.iam.gserviceaccount.com
+terraform-training  True                                                                            us-gcp-ame-con-dic-sbx-1  us-west1b
